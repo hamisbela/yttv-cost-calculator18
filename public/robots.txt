@@ -1,0 +1,14 @@
+# robots.txt for YouTube TV Cost Calculator
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://youtube-tv-calculator.netlify.app/sitemap.xml
+
+# Block specific directories or files if needed
+# Disallow: /private/
+# Disallow: /admin/
+
+# Crawl delay for bots (optional)
+Crawl-delay: 10
